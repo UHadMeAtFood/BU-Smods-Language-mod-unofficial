@@ -1,0 +1,13 @@
+{
+	"id": "BU_SMODS_LANG",
+	"name": "BU smods edition",
+	"display_name": "BU smods edition",
+	"author": ["OceanRamen","Splatter","drspectred","UHadMeAtFood"],
+	"description": "unofficial smods port for the BU language mod",
+	"prefix": "BU",
+	"main_file": "main.lua",
+	"priority": -9999,
+	"version": "2",
+	"dependencies": [
+		"Steamodded (>=1.*)"]
+}
